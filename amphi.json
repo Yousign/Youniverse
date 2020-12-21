@@ -5,6 +5,10 @@
         {
          "height":36,
          "width":36
+        },
+     "export":
+        {
+         "target":"."
         }
     },
  "height":20,
@@ -38,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map.json#from-amphi"
+                 "value":".\/map.json#from-amphi"
                 }],
          "type":"tilelayer",
          "visible":true,

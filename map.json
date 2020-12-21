@@ -234,7 +234,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/amphi.json"
+                 "value":".\/amphi.json"
                 }],
          "type":"tilelayer",
          "visible":true,
