@@ -4,6 +4,10 @@
 ## Informations
 On the [Workadventu.re map starter kit](https://github.com/thecodingmachine/workadventure-map-starter-kit)
 
+## Quick links 
+https://workadventu.re/map-building
+
+
 ## Get Started
 
 In order to custom the Youniverse maps, you need to :
